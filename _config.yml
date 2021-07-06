@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Thaileng Thol"
-  avatar           : "/assets/images/IMG_0041 copy.jpg.jpg"
+  avatar           : "./assets/images/IMG_0041 copy.jpg.jpg"
   bio              : "M.eng | Water Resources Engineer"
   location         : "Bangkok, Thailand"
   email            : "thaileng.thol@gmail.com"
@@ -129,24 +129,24 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:your.name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thailengthol.github.io/thaileng/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://facebook.com/Thaileng.thol"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://github.com/thailengthol"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: "https://instagram.com/"
 
 
 # Reading Files
