@@ -20,9 +20,7 @@ title                    : "Thaileng Thol || Portfolio"
 title_separator          : "-"
 subtitle                 : "Water Resources Engineer"
 name                     : "Thaileng Thol"
-description              : "A water resources engineer with international project experience in both public and private sectors for water resources management projects, specializing in flood and drought assessment,
-climate change impact assessment and adaptation, and basin development planning. Enthusiastic to work with leading organizations or institutions where I can contribute to
-making a real impact on society, and can make substantial use of my expertise and talents in the promotion of personal growth and the organisation."
+description              : "---"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,9 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Thaileng Thol"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "A water resources engineer with international project experience in both public and private sectors for water resources management projects, specializing in flood and drought assessment,
+climate change impact assessment and adaptation, and basin development planning. Enthusiastic to work with leading organizations or institutions where I can contribute to
+making a real impact on society, and can make substantial use of my expertise and talents in the promotion of personal growth and the organisation."
   location         : "Somewhere in Thailand"
   email            : "Thaileng.thol@gmail.com"
   links:
@@ -114,10 +114,10 @@ author:
       url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://your-website.com"
+      # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/"
@@ -126,29 +126,29 @@ author:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:your.name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: "https://instagram.com/"
 
 
 # Reading Files
