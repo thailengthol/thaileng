@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -80,7 +80,7 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               :
+  username               : "Thaileng Thol"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -102,8 +102,8 @@ analytics:
 # Site Author
 author:
   name             : "Thaileng Thol"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/images/IMG_0041 copy.jpg.jpg"
+  bio              : "M.eng | Water Resources Engineering"
   location         : "Bangkok, Thailand"
   email            : "thaileng.thol@gmail.com"
   links:
