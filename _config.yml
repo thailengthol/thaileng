@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Thaileng Thol"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Bangkok, Thailand"
+  email            : "thaileng.thol@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
