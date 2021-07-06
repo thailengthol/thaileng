@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Blogs"
-    url: /assets/
+  - title: "Post"
+    url: /post/
   - title: "About Me"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /about me/
   - title: "Projects"
-    url: /docs/
+    url: /tags/
