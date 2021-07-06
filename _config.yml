@@ -12,11 +12,11 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thaileng Thol || Portfolio"
+title                    : "Thaileng Thol || M.eng"
 title_separator          : "-"
 subtitle                 : "Water Resources Engineer"
 name                     : "Thaileng Thol"
