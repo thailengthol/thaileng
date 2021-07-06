@@ -18,9 +18,11 @@ minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Thaileng Thol || Portfolio"
 title_separator          : "-"
-subtitle                 : "Subtitle"
+subtitle                 : "Water Resources Engineer"
 name                     : "Thaileng Thol"
-description              : "An amazing websiteeeeeee."
+description              : "A water resources engineer with international project experience in both public and private sectors for water resources management projects, specializing in flood and drought assessment,
+climate change impact assessment and adaptation, and basin development planning. Enthusiastic to work with leading organizations or institutions where I can contribute to
+making a real impact on society, and can make substantial use of my expertise and talents in the promotion of personal growth and the organisation."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
