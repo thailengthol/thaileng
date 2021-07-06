@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Thaileng Thol"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/bio-photo.jpg
   bio              : "A water resources engineer with international project experience in both public and private sectors for water resources management projects, specializing in flood and drought assessment,
 climate change impact assessment and adaptation, and basin development planning. Enthusiastic to work with leading organizations or institutions where I can contribute to
 making a real impact on society, and can make substantial use of my expertise and talents in the promotion of personal growth and the organisation."
