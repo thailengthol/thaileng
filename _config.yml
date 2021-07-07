@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Thaileng Thol"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/bio-prf.jpg"
   bio              : "I am **Water** Resesource Engineer."
   location         : "Bangkok, Thailand"
   email            :
